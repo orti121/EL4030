@@ -1,0 +1,11 @@
+QPSK
+
+nbits = 100;
+nchannels = 96;
+fbasechannel = 800;
+fs = 44100;
+fswitch = 100;
+deltaf = 200;
+cable = 1;
+
+speakers 7
